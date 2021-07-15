@@ -1,0 +1,17 @@
+{
+    "name": "cleuber/crypt-rsa-digest",
+    "description": "inheritance from the phpseclib crypto rsa project to sign digest (hash)",
+    "type": "library",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": "^5.6 || ^7.0 || ^7.1",
+        "phpseclib/phpseclib": "~1.0"
+    },
+    "require-dev": {
+        "zfcampus/zf-composer-autoloading": "^1.1.1 || ^2.1"
+    },
+    "autoload": {
+        
+    }
+}
